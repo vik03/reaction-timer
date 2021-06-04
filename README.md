@@ -1,5 +1,7 @@
 # reaction-timer
 
+It is a small game developed in Vue to check your reaction timings 
+
 ## Project setup
 ```
 npm install
